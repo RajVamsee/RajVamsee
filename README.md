@@ -90,4 +90,4 @@ I'm a passionate Full Stack Developer with three years of experience in developi
 
 ---
 
-Feel free to reach out if you have any questions, would like to collaborate on a project, or have a job opportunity!
+Feel free to reach out if you have any questions, would like to collaborate on a project!
