@@ -88,8 +88,6 @@ I'm a passionate Full Stack Developer with three years of experience in developi
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajVamsee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajVamsee&layout=compact&theme=radical)
 
-![GitHub Contribution Stats](https://your-image-url)
-
 ---
 
 Feel free to reach out if you have any questions, would like to collaborate on a project, or have a job opportunity!
