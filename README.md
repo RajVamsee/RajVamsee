@@ -43,23 +43,7 @@ I'm a passionate Full Stack Developer with three years of experience in developi
 ## 💼 Professional Experience
 
 ### Virtusa Corporation | Full Stack Developer (Jun 2019 – Aug 2021)
-
-- Engineered highly responsive web applications using Java 8 with Spring Boot for backend and React with JSX and Redux for front-end development.
-- Designed microservices using Spring Boot and Spring Cloud, resulting in a 10% increase in user engagement.
-- Developed and managed RESTful APIs, optimizing data processing and integrating with a React-powered frontend.
-- Integrated Apache KAFKA for real-time data streaming, improving system responsiveness and reliability.
-- Implemented AWS Quick Sight for real-time data visualization.
-- Conducted performance tuning and optimization of SQL and NoSQL databases.
-- Employed Cypress for automated end-to-end testing of React applications.
-- Deployed applications using Jenkins for CI/CD pipelines and Kubernetes for containerization.
-
 ### Stellapps Technologies | Software Developer (Mar 2018 - Feb 2019)
-
-- Leveraged Java 8 features, including Lambda expressions and Streams, for improved code readability and maintainability.
-- Architected MySQL database schemas, optimizing data storage and retrieval efficiency.
-- Implemented advanced Angular features such as reactive forms, improving user experience.
-- Utilized Postman for API testing and documentation, ensuring robust API performance.
-- Collaborated in an Agile development environment, participating in sprint planning, code reviews, and daily stand-ups.
 
 ## 📚 Education
 
@@ -68,12 +52,12 @@ I'm a passionate Full Stack Developer with three years of experience in developi
 - **B.Tech in Information Technology** from Jawaharlal Nehru Technological University, Hyderabad, India (Aug 2015 - May 2019)
   - Focus: Python, OOPS, Human-Computer Interaction
 
-## 🌱 Projects
+## 🌱 Academic Projects
 
-- **[LinkedIn Clone](https://github.com/RajVamsee/linkedin-clone)** | React 17, Firebase Firestore, React Router, Material UI, CSS (2023)
+- **[LinkedIn Clone](https://github.com/RajVamsee/linkedin-clone)** | React 17, Firebase Firestore, React Router, Material UI, CSS
   - A web application replicating the core functionalities and user interface dynamics of LinkedIn.
 
-- **E-Commute - A Carpooling Application** | GoLang, React, Redux, MongoDB, Cypress 6.0 (2022)
+- **E-Commute - A Carpooling Application** | GoLang, React, Redux, MongoDB, Cypress 6.0 
   - A platform facilitating carpooling services with real-time ride sharing capabilities.
 
 ## 💬 Let's Connect
