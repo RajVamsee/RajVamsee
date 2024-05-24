@@ -9,10 +9,36 @@ I'm a passionate Full Stack Developer with three years of experience in developi
 
 ## 🚀 Technical Skills
 
-- **Languages & Frameworks:** Java, Python, C, HTML5, CSS3, JavaScript ES6, TypeScript, React 17, Angular 13, Spring Boot, Hibernate, Redux, Node.js
-- **Databases:** MySQL, MongoDB, Oracle
-- **Tools & Platforms:** Git, Jira, Docker, Jenkins, Kubernetes, AWS, Apache KAFKA
-- **Other Skills:** Microservices, Responsive Design, JDBC, Adobe Experience Manager, LESS, TailwindCSS, XML
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=microservices&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0052CC?style=for-the-badge&logo=responsive-design&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-0052CC?style=for-the-badge&logo=jdbc&logoColor=white)
+![Adobe Experience Manager](https://img.shields.io/badge/Adobe%20Experience%20Manager-FA0F00?style=for-the-badge&logo=adobe-experience-manager&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0052CC?style=for-the-badge&logo=xml&logoColor=white)
 
 ## 💼 Professional Experience
 
@@ -62,6 +88,8 @@ I'm a passionate Full Stack Developer with three years of experience in developi
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajVamsee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajVamsee&layout=compact&theme=radical)
 
+![GitHub Contribution Stats](https://your-image-url)
+
 ---
 
-Feel free to reach out if you have any questions or would like to collaborate on a project!
+Feel free to reach out if you have any questions, would like to collaborate on a project, or have a job opportunity!
