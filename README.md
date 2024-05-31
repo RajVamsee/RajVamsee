@@ -1,4 +1,4 @@
-# Hi there, I'm Raj Gopala Vamsee Jaggaraju 👋
+# Hi there, I'm Raj Vamsee 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-RajVamsee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RajVamsee/)](https://www.linkedin.com/in/RajVamsee/)
 [![GitHub followers](https://img.shields.io/github/followers/RajVamsee?label=Follow&style=social)](https://github.com/RajVamsee)
