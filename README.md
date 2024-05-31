@@ -5,7 +5,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/-RajVamsee-green?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/RajVamsee/)](https://leetcode.com/RajVamsee/)
 [![HackerRank Badge](https://img.shields.io/badge/-RajVamsee-black?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/sasuke23)](https://www.hackerrank.com/profile/sasuke23)
 
-I'm a passionate Full Stack Developer with three years of experience in developing responsive and scalable web applications. I completed my Master's degree in Computer Science from the University of Florida, and I'm particularly interested in web development and software engineering. I enjoy solving coding challenges and constantly improving my skills.
+I'm a passionate Full Stack Developer with 5 years of experience in developing responsive and scalable web applications. I completed my Master's degree in Computer Science from the University of Florida, and I'm particularly interested in web development and software engineering. I enjoy solving coding challenges and constantly improving my skills.
 
 ## 🚀 Technical Skills
 
@@ -42,8 +42,9 @@ I'm a passionate Full Stack Developer with three years of experience in developi
 
 ## 💼 Professional Experience
 
-### Virtusa Corporation | Full Stack Developer (Jun 2019 – Aug 2021)
-### Stellapps Technologies | Software Developer (Mar 2018 - Feb 2019)
+### Fiserv | Java Developer (Aug 2022 – May 2024)
+### Virtusa Corporation | Full Stack Developer (Jul 2019 – Aug 2021)
+### Stellapps Technologies | Software Developer (Jan 2018 - June 2019)
 
 ## 📚 Education
 
