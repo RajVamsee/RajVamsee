@@ -42,6 +42,7 @@ I'm a passionate Full Stack Developer with up to 4 years of experience in develo
 
 ## 💼 Professional Experience
 
+### Fiserv | Full Stack Java Developer (Aug 2022 – May 2024)
 ### Virtusa Corporation | Full Stack Developer (Jul 2019 – Aug 2021)
 ### Stellapps Technologies | Software Developer (Jan 2018 - June 2019)
 
