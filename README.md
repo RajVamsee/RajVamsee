@@ -5,7 +5,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/-RajVamsee-green?style=flat&logo=LeetCode&logoColor=white&link=https://leetcode.com/RajVamsee/)](https://leetcode.com/RajVamsee/)
 [![HackerRank Badge](https://img.shields.io/badge/-RajVamsee-black?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/sasuke23)](https://www.hackerrank.com/profile/sasuke23)
 
-I'm a passionate Full Stack Developer with up to 4 years of experience in developing responsive and scalable web applications. I completed my Master's degree in Computer Science from the University of Florida, and I'm particularly interested in web development and software engineering. I enjoy solving coding challenges and constantly improving my skills.
+I'm a passionate Full Stack Developer with up to 5 years of experience in developing responsive and scalable web applications. I completed my Master's degree in Computer Science from the University of Florida, and I'm particularly interested in web development and software engineering. I enjoy solving coding challenges and constantly improving my skills.
 
 ## 🚀 Technical Skills
 
