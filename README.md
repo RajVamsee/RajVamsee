@@ -40,10 +40,6 @@ I'm a passionate Full Stack Developer in developing responsive and scalable web 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0052CC?style=for-the-badge&logo=xml&logoColor=white)
 
-## 💼 Professional Experience
-
-### Virtusa Corporation | Full Stack Developer (Jul 2019 – Aug 2021)
-
 ## 📚 Education
 
 - **MS in Computer Science** from University of Florida, Gainesville, USA (Aug 2021 - May 2023)
