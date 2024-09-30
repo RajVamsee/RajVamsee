@@ -42,9 +42,11 @@ I'm a passionate Full Stack Developer in developing responsive and scalable web 
 
 ## 📚 Education
 
+- **Masters in Computer Science** from University Of Florida, Gainesville, Florida, United States
+  - Focus: DBMS, Software Engineering, Programming Language Principles
 
-- **B.Tech in Information Technology** from Jawaharlal Nehru Technological University, Hyderabad, India
-  - Focus: Python, OOPS, Human-Computer Interaction
+- **B.Tech in Information Technology** from Jawaharlal Nehru Technological University, Hyderabad, Telangana, India
+  - Focus: Object Oriented Programming, Web Technologies, Cloud Computing
 
 ## 🌱 Academic Projects
 
