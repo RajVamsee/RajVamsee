@@ -19,19 +19,13 @@ I'm a passionate Full Stack Developer in developing responsive and scalable web 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=microservices&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-0052CC?style=for-the-badge&logo=responsive-design&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-0052CC?style=for-the-badge&logo=jdbc&logoColor=white)
@@ -41,6 +35,9 @@ I'm a passionate Full Stack Developer in developing responsive and scalable web 
 ![XML](https://img.shields.io/badge/XML-0052CC?style=for-the-badge&logo=xml&logoColor=white)
 
 ## 📚 Education
+
+- **MS in Computer Science** from **University Of Florida**, Gainesville, Florida, United States 
+  - Focus: Programming Language Principles, Analysis Of Algorithms, Software Engineering
 
 - **B.Tech in Information Technology** from **Jawaharlal Nehru Technological University**, Hyderabad, Telangana, India 
   - Focus: Object Oriented Programming, Web Technologies, Cloud Computing
