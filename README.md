@@ -59,7 +59,6 @@ I'm a passionate Full Stack Developer in developing responsive and scalable web 
 
 ## 📈 GitHub Stats
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajVamsee&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajVamsee&layout=compact&theme=radical)
 
 ---
