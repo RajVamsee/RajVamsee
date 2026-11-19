@@ -34,14 +34,6 @@ I'm a passionate Full Stack Developer in developing responsive and scalable web 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0052CC?style=for-the-badge&logo=xml&logoColor=white)
 
-## 📚 Education
-
-- **MS in Computer Science** from **University Of Florida**, Gainesville, Florida, United States 
-  - Focus: Programming Language Principles, Analysis Of Algorithms, Software Engineering
-
-- **B.Tech in Information Technology** from **Jawaharlal Nehru Technological University**, Hyderabad, Telangana, India 
-  - Focus: Object Oriented Programming, Web Technologies, Cloud Computing
-
 ## 🌱 Academic Projects
 
 - **[LinkedIn Clone](https://github.com/RajVamsee/linkedin-clone)** | React 17, Firebase Firestore, React Router, Material UI, CSS
@@ -53,8 +45,6 @@ I'm a passionate Full Stack Developer in developing responsive and scalable web 
 ## 💬 Let's Connect
 
 - **Email:** vamsee2312@gmail.com
-- **LinkedIn:** [RajVamsee](https://www.linkedin.com/in/RajVamsee/)
-- **LeetCode:** [RajVamsee](https://leetcode.com/RajVamsee/)
 - **HackerRank:** [RajVamsee](https://www.hackerrank.com/profile/sasuke23)
 
 ## 📈 GitHub Stats
